@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="master" />
+    <option name="gitUrl" value="https://github.com/limeuser/orm.git" />
+    <option name="localBranch" value="master" />
+    <option name="revision" value="ce5b3ea8bc46e1de942ab42891a2c9390c4da57b" />
+  </component>
+</project>
